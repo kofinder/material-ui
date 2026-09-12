@@ -1,18 +1,5 @@
 # Material Flow — factory store prototype
 
-React + Material UI prototype for DM/IDM factory materials management, based on the supplied Store DM-IDM V1.3.xlsb workbook.
-
-## Run locally
-
-Requires Node.js 22.13 or newer and pnpm 11.25.0 (the package manager recorded in package.json).
-
-```sh
-pnpm install --frozen-lockfile
-pnpm dev
-```
-
-Open http://localhost:5173. A clean checkout uses the portable runtime automatically. Source edits refresh the page during development.
-
 ```sh
 pnpm build
 ```
